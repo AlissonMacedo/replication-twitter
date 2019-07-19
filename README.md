@@ -1,4 +1,6 @@
-<h1>Replication of Twitter</h1>
+# Replication of Twitter
 
-<h3>i created this file following the tutorial of rockeseat,
-with the intention of re-creating twitter. </h3>
+i created this file following the tutorial of rockeseat,
+with the intention of re-creating twitter.
+
+<img src="/images/demo/demo.png?w=512height="150" width="150">
